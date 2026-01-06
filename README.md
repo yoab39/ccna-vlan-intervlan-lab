@@ -1,4 +1,4 @@
-ccna-vlan-intervlan-lab
+CCNA-vlan-intervlan-lab
 CCNA VLAN and inter-VLAN routing lab
 
 VLAN segmentation and inter-VLAN routing using a multilayer switch.
