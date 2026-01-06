@@ -17,6 +17,8 @@ NETWORK DESIGN
 
 
 Devices
+
+
 • 1 multilayer switch
 • 3 access switches
 • 1 router
