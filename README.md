@@ -89,21 +89,22 @@ Included checks
 • Full topology view
 
 
-FILES
+
+FILES:-
 
 
-configs
+CONFIGS
 
-Multilayer switch configuration output.
+• Multilayer switch configuration output.
 
 
-lab
+LAB
 
-Packet Tracer file with full topology.
+• Packet Tracer file with full topology.
 
-screenshots
+SCREENSHOTS
 
-All verification and proof images.
+• All verification and proof images.
 
 SKILLS SHOWN
 
