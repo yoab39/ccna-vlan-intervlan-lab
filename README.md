@@ -1,5 +1,6 @@
-CCNA-vlan-intervlan-lab
 CCNA VLAN and inter-VLAN routing lab
+
+Topology includes a multilayer switch with three access switches, segmented VLANs, and routed inter-VLAN connectivity.
 
 VLAN segmentation and inter-VLAN routing using a multilayer switch.
 Built in Cisco Packet Tracer.
@@ -102,6 +103,10 @@ LAB
 
 • Packet Tracer file with full topology.
 
+How to open lab:- 
+
+Open lab/topology.pkt in Cisco Packet Tracer to view and test the network.
+
 SCREENSHOTS
 
 • All verification and proof images.
@@ -119,6 +124,9 @@ SKILLS SHOWN
 • Network verification
 
 • Structured lab documentation
+
+
+This lab reflects a common enterprise campus design using access and distribution layers with Layer 3 switching.
 
 
 AUTHOR
