@@ -51,6 +51,7 @@ Gateways
 • VLAN 30, 192.168.30.1
 
 
+
 WHAT IS CONFIGURED
 
 • VLAN creation and naming
