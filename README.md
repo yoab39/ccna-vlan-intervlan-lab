@@ -5,6 +5,8 @@ VLAN segmentation and inter-VLAN routing using a multilayer switch.
 Built in Cisco Packet Tracer.
 
 OVERVIEW
+
+
 This lab demonstrates how to design and configure a small routed campus network using a multilayer switch.
 The network uses multiple VLANs, access ports, trunk links, SVIs, and inter-VLAN routing.
 The goal was to prove end-to-end connectivity between separate VLANs using Layer 3 switching.
