@@ -12,6 +12,7 @@ The network uses multiple VLANs, access ports, trunk links, SVIs, and inter-VLAN
 The goal was to prove end-to-end connectivity between separate VLANs using Layer 3 switching.
 
 
+
 NETWORK DESIGN
 
 
